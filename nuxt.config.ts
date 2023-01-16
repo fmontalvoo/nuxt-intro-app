@@ -4,7 +4,6 @@ export default defineNuxtConfig({
     modules: [
         '@pinia/nuxt',
         '@nuxt/content',
-        '@nuxtjs/tailwindcss',
         '@kevinmarrec/nuxt-pwa',
     ],
     pwa: {
